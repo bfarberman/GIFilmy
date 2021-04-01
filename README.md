@@ -1,3 +1,6 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53374859/113362386-46230680-931c-11eb-87fc-476d05f1fc0c.gif?raw=true)
+
+
 # GIFilmy
 > Web game where player guesses movie titles based on 
 
