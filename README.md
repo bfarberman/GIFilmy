@@ -1,26 +1,19 @@
+GIFilmy is a game in which users guess a movie title based on a pair of GIFs.
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/53374859/113362386-46230680-931c-11eb-87fc-476d05f1fc0c.gif?raw=true)
 
+MADE USING:
 
-# GIFilmy
-> Web game where player guesses movie titles based on 
+-Ruby on Rails
 
-[Watch the Demo](https://www.youtube.com/watch?v=tpbo1VQkkiE&feature=youtu.be)
+FEATURES:
 
-<ul>
-  <li />Tracks current user through Rails sessions, adjusting leaderboard after each completed game.<br>
-  <li />Applied Model-View-Controller (MVC) modeling to enhance code flow.<br>
-</ul>
+-Create a profile
 
-Technologies:
-<ul>
-  <li />Ruby on Rails
-  <li />HTML/CSS
-</ul>
+-Log into an existing profile
 
-![Domain Model for GIFilmy](https://i.imgur.com/F4Whvl4.png)
+-View a leaderboard 
 
-## Meta
+-Play different versions of the game by genre 
 
-Barbara Muesing – [LinkedIn](https://www.linkedin.com/in/barbara-muesing) – muesingb@gmail.com
-
-[https://github.com/muesingb/GIFilmy](https://github.com/muesingb/GIFilmy)
+<img width="1506" alt="Screen Shot 2021-04-01 at 7 03 57 PM" src="https://user-images.githubusercontent.com/53374859/113362747-158f9c80-931d-11eb-8d9e-9b8850ad23bb.png">
