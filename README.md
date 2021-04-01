@@ -1,5 +1,5 @@
 # GIFilmy
-> Web game where player guesses movie titles based on GIFs.
+> Web game where player guesses movie titles based on 
 
 [Watch the Demo](https://www.youtube.com/watch?v=tpbo1VQkkiE&feature=youtu.be)
 
